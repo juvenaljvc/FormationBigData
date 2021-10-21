@@ -1,0 +1,5 @@
+package processeurs
+
+class MaClass {
+
+}

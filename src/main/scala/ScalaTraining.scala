@@ -79,6 +79,8 @@ object ScalaTraining {
     val maseq : Seq[String] = Seq("juvenal", "boubdallah", "bruno", "vincent", "taylor")
 
 
+
+
   }
 
   def extractFirst(texte : String, longueur : Int) : Unit = {
